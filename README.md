@@ -4,6 +4,10 @@
 - Substring
 - try trie next time
 
+### 2501. Longest Square Streak in an Array
+- square walk
+- set() look up in python is O(1)
+
 ### 2583. Kth Largest Sum in a Binary Tree (incomplete)
 - Binary tree / BFS
 
