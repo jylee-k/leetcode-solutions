@@ -8,6 +8,10 @@
 - Substring
 - try trie next time
 
+### 1671. Minimum Number of Removals to Make Mountain Array
+- Dynamic Programming
+- makes use of 300. Longest Increasing Subsequence in both directions
+
 ### 2501. Longest Square Streak in an Array
 - square walk
 - set() look up in python is O(1)
