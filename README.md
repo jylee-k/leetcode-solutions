@@ -13,3 +13,6 @@
 
 ### 2641. Cousins in Binary Tree II
 - Binary tree / DFS
+
+### 2684. Maximum Number of Moves in a Grid
+- Dynamic Programming
