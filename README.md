@@ -1,5 +1,9 @@
 # leetcode-solutions
 
+### 300. Longest Increasing Subsequence
+- Dynamic Programming
+- 30/10/2024: got O(n^2), try for O(nlog(n)) next time
+
 ### 1233. Remove Sub-Folders from the Filesystem
 - Substring
 - try trie next time
